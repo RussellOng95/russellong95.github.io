@@ -4,7 +4,7 @@ permalink: /computer-science/
 title: "Computer Science Posts by Tags"
 author_profile: true
 header:
-  image: "images/background.jpg"
+  image: "assets/images/background.jpg"
 
 ---
 
